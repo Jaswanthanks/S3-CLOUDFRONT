@@ -24,7 +24,8 @@ Create and attach an Origin Access Control (OAC) to restrict direct S3 bucket ac
 3. Configure CloudFront Settings
 Set the Default Root Object (e.g., index.html) to specify the landing page.
 Wait for the distribution to finish deploying.
+[NOTE] - for the bucket policy they are given when the OAC is being produced so you can copy from there and use it
 
-4. Launch Your Website
+5. Launch Your Website
 Access your website using the CloudFront distribution domain name.
 Your website will now be served securely and quickly through CloudFront.
