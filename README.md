@@ -1,7 +1,9 @@
 # Static Website Hosting on AWS with S3 and CloudFront
 
 
-<img width="514" height="268" alt="image" src="https://github.com/user-attachments/assets/5b7dacf4-c846-4af0-9a24-57621c3203ff" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/5b7dacf4-c846-4af0-9a24-57621c3203ff" width="514" height="268" alt="image" />
+</p>
 
 
 This project demonstrates how to host a static website on AWS using an S3 bucket as the origin and CloudFront as the CDN for fast and secure content delivery. It uses Origin Access Control (OAC) to restrict direct access to the S3 bucket and serve content only through CloudFront.
